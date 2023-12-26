@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/karangangwar341/karangangwar341/raw/main/assets/header.png" alt="Header Image">
+  <img src="https://media.licdn.com/dms/image/D4D03AQEXl6Xo-orv2g/profile-displayphoto-shrink_200_200/0/1672753365827?e=1709164800&v=beta&t=xhibL6vlsEC41lUbOkaJAlPLmDlc0vY8Yj_FG8ILyUU" alt="Header Image">
 </div>
 
 <p align="center">
@@ -53,6 +53,5 @@
 
 <!-- Dynamic Elements (These won't be dynamic in the README but you can check them by clicking on the link) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karangangwar341&hide_border=true&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=karangangwar341&bg_color=000000&color=00FF00&line=0000FF&point=00FF00&hide_border=true&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Add more dynamic elements as needed -->
