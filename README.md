@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQEXl6Xo-orv2g/profile-displayphoto-shrink_200_200/0/1672753365827?e=1709164800&v=beta&t=xhibL6vlsEC41lUbOkaJAlPLmDlc0vY8Yj_FG8ILyUU" alt="Header Image">
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/karangangwar341?style=social" alt="GitHub Followers">
