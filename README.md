@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/karangangwar341?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/LinkedIn-karangangwar-blue" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Behance-karangangwar-orange" alt="Behance">
+ <a href="https://github.com/karangangwar341" <img src="https://img.shields.io/github/followers/karangangwar341?style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/karan-gangwar-59aa8b225/"><img src="https://img.shields.io/badge/LinkedIn-karangangwar-blue" alt="LinkedIn"></a>
+ <a href="https://www.behance.net/karangangwar"<img src="https://img.shields.io/badge/Behance-karangangwar-orange" alt="Behance"></a>
 </p>
 
 # Hi there, I'm Karan Gangwar 👋
