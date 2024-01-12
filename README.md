@@ -11,10 +11,6 @@
 
 📧 Email: karangangwar341@gmail.com
 
-📱 Mobile: +91-9520569400
-
-📍 Location: 19/225 Indira Nagar, Lucknow
-
 ## 🎓 Education
 - **B.Tech - Computer Science and Engineering**
   - Institute of Engineering and Technology, Lucknow, UP, India
