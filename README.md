@@ -23,15 +23,13 @@
 - Completed "Build Wireframes and Low-Fidelity Prototypes" on Coursera
 
 ## 🛠️ Projects
-1. [GrievEase](https://griev-ease.vercel.app/): An innovative platform connecting the public with government officials.
-   - Tech Used: Figma, ReactJS, Firebase
-   - Role: UI Designer
 
-2. [ChatMitra](https://github.com/karangangwar341/Chatmitra): A chatbot app with a noticeboard and infographics.
+
+1. [ChatMitra](https://github.com/karangangwar341/Chatmitra): A chatbot app with a noticeboard and infographics.
    - Tech Used: Figma, HTML, Tailwind CSS, Django
    - Role: UI Designer, Frontend Developer
 
-3. [Sign Language Reader](https://github.com/karangangwar341/LFR-Direction-calculator): Detects and translates sign language using the webcam.
+2. [Sign Language Reader](https://github.com/karangangwar341/LFR-Direction-calculator): Detects and translates sign language using the webcam.
    - Tech Used: Python, OpenCV, Mediapipe Keras model, Machine Learning
 
 ## 💼 Volunteer Experience
