@@ -17,7 +17,6 @@
 
 ## 🏆 Achievements and Certifications
 - Successfully solved over 300 DSA problems across various coding platforms
-- Won first place at HackIET Hackathon for GrievEase
 - 3-star rating on CodeChef with a peak rating of 1622
 - Secured 57th rank in CodeChef's December Long '22 Challenge
 - Completed "Build Wireframes and Low-Fidelity Prototypes" on Coursera
