@@ -13,7 +13,7 @@
 ## 🎓 Education
 - **B.Tech - Computer Science and Engineering**
   - Institute of Engineering and Technology, Lucknow, UP, India
-  - CGPA: 7.8/10.0
+  - CGPA: 8.0/10.0
 
 ## 🏆 Achievements and Certifications
 - Solved over 300 DSA problems across various coding platforms
